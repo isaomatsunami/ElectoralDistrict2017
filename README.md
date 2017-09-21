@@ -1,0 +1,2 @@
+# ElectoralDistrict2017
+2017年改定の衆議院選挙区区割り
